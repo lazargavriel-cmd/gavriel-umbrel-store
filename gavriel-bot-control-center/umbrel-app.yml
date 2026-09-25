@@ -1,1 +1,32 @@
+manifestVersion: 1
+id: gavriel-bot-control-center
+category: finance
+name: Bot Control Center
+version: "1.0.0"
 
+tagline: Local command center for trading and research bots
+
+description: >-
+  Local cockpit dashboard for monitoring trading, research and
+  intelligence bots running on this Umbrel.
+
+  The dashboard displays operational telemetry and research-safe
+  monitoring information from the local bot infrastructure.
+
+developer: Gavriel
+
+website: ""
+dependencies: []
+repo: ""
+support: ""
+
+port: 8097
+
+gallery: []
+path: ""
+
+defaultUsername: ""
+defaultPassword: ""
+
+releaseNotes: >-
+  Initial release of Bot Control Center.
