@@ -1,10 +1,13 @@
 manifestVersion: 1
+
 id: gavriel-bot-control-center
 category: finance
 name: Bot Control Center
 version: "1.0.0"
 
 tagline: Local command center for trading and research bots
+
+icon: https://raw.githubusercontent.com/lazargavriel-cmd/gavriel-umbrel-store/master/gavriel-bot-control-center/icon.png
 
 description: >-
   Local cockpit dashboard for monitoring trading, research and
@@ -15,14 +18,18 @@ description: >-
 
 developer: Gavriel
 
-website: ""
+website: https://github.com/lazargavriel-cmd/gavriel-umbrel-store
+
 dependencies: []
-repo: ""
-support: ""
+
+repo: https://github.com/lazargavriel-cmd/gavriel-umbrel-store
+
+support: https://github.com/lazargavriel-cmd/gavriel-umbrel-store/issues
 
 port: 8097
 
 gallery: []
+
 path: ""
 
 defaultUsername: ""
@@ -30,3 +37,7 @@ defaultPassword: ""
 
 releaseNotes: >-
   Initial release of Bot Control Center.
+
+submitter: Gavriel
+
+submission: https://github.com/lazargavriel-cmd/gavriel-umbrel-store
